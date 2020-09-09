@@ -34,8 +34,8 @@ void print_arrow(){
     }
     for(c=1;c<=a;c++){
       putchar('*');
-      putchar('\n');
     }
+      putchar('\n');
   }
   for(d=4;d>=1;d--){
     for(e=4;e>=d;e--){
@@ -43,8 +43,8 @@ void print_arrow(){
     }
     for(f=d;f>=1;f--){
       putchar('*');
-      putchar('\n');
     }
+      putchar('\n');
   }
 }
 
