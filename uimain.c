@@ -24,7 +24,7 @@ int main()
       puts("You selected square:");
       print_square(5, 5);
       break;
-    case 'a':
+    case 't':
       puts("You selected arrow");
       print_arrow();
     case 'c':
